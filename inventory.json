@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Anahit",
+        "price": 399.0,
+        "quantity": 1,
+        "category": "3"
+    },
+    {
+        "name": "Book",
+        "price": 399.0,
+        "quantity": 1,
+        "category": "3"
+    },
+    {
+        "name": "Nudeln",
+        "price": 20.0,
+        "quantity": 4,
+        "category": "5"
+    }
+]
